@@ -32,6 +32,7 @@
 2026/WS/test_dict.pt
 2026/WS/test.pt
 2026/WS/mymodule.pt
+<<<<<<< HEAD
 2026/WS/.ipynb_checkpoints/WS3_LeNet-checkpoint.ipynb
 2026/WS/data/cifar-10-batches-py/batches.meta
 2026/WS/data/cifar-10-batches-py/data_batch_1
@@ -52,3 +53,10 @@
 2026/submit_example.csv
 2026/ContestDataset.zip
 2026/WS/submission.csv
+=======
+2026/LEC/.ipynb_checkpoints/Lec_4_REG_BN_VGG_NIN_INCEPT -checkpoint.ipynb
+2026/LEC/.ipynb_checkpoints/Lec_3_LeNet_AlexNet_SGD_ACT -checkpoint.ipynb
+2026/LEC/.ipynb_checkpoints/Lec_2_ML_in_CV-checkpoint.ipynb
+2026/WS/.ipynb_checkpoints/WS3_LeNet-checkpoint.ipynb
+2026/WS/.ipynb_checkpoints/WS5transfer-checkpoint.ipynb
+>>>>>>> 6c70497651f22647fd4d2700d49d9e51d335326a
